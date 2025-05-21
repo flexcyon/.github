@@ -9,3 +9,6 @@ The documentation for the theme is hosted under this organisation.
 
 English Documentation: https://flexcyon-docs.readthedocs.io/en/latest/
 > Source code: https://github.com/flexcyon/docs-en
+
+Chinese Documentation https://flexcyon-docs.readthedocs.io/zh-cn/latest/
+> Source code: https://github.com/flexcyon/docs-en/tree/zh-cn
