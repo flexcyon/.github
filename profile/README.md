@@ -4,6 +4,8 @@ This is the organisation for the Flexcyon theme, an Obsidian.md theme made by bl
 You can find out more about the theme here:
 - https://github.com/bladeacer/flexcyon
 
+The translations are drafted and partially automated using `libretranslate`, so they may not be fully accurate.
+
 ## Documentation
 The documentation for the theme is hosted under this organisation.
 
@@ -13,4 +15,9 @@ English Documentation: https://flexcyon-docs.readthedocs.io/en/latest/
 Chinese Documentation https://flexcyon-docs.readthedocs.io/zh-cn/latest/
 > Source code: https://github.com/flexcyon/docs-en/tree/zh-cn
 
-The translations are drafted and partially automated using `libretranslate`, so they may not be fully accurate.
+Status: WIP
+
+Spanish Documentation  https://flexcyon-docs.readthedocs.io/es/latest/
+> Source code: https://github.com/flexcyon/docs-en/tree/es
+
+Status: WIP
