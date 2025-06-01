@@ -8,12 +8,6 @@
         <img src="https://img.shields.io/github/v/release/bladeacer/flexcyon?style=for-the-badge&sort=semver" referrerpolicy="noreferrer">
     </a>
 </p>
-
-This is the organisation for the [Flexcyon theme](https://github.com/bladeacer/flexcyon), an Obsidian.md theme made by bladeacer.
-
-The translations are drafted and partially automated using `libretranslate`, so they may not be fully accurate.
-
-## Documentation
 <p align="left">
   <a href="https://app.readthedocs.org/projects/flexcyon-docs/">
     <img alt="English Docs" src="https://img.shields.io/readthedocs/flexcyon-docs?style=for-the-badge&label=English%20Docs" referrerpolicy="noreferrer">
@@ -26,6 +20,11 @@ The translations are drafted and partially automated using `libretranslate`, so 
   </a>
 </p>
 
+This is the organisation for the [Flexcyon theme](https://github.com/bladeacer/flexcyon), an Obsidian.md theme made by bladeacer.
+
+The translations are drafted and partially automated using `libretranslate`, so they may not be fully accurate.
+
+## Documentation
 The documentation for the theme is hosted under this organisation.
 
 [English Documentation](https://flexcyon-docs.readthedocs.io/en/latest/)
