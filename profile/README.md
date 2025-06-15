@@ -1,6 +1,6 @@
 ## Flexcyon Theme
 <p align="left">
-    <img src="https://img.shields.io/badge/downloads-1000+-6E4E9B?style=for-the-badge&logo=obsidian&color=%23483699" referrerpolicy="noreferrer">
+    <img src="https://img.shields.io/badge/downloads-1100+-6E4E9B?style=for-the-badge&logo=obsidian&color=%23483699" referrerpolicy="noreferrer">
     <a href="https://github.com/bladeacer/flexcyon/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/bladeacer/flexcyon?style=for-the-badge" referrerpolicy="noreferrer">
     </a>
